@@ -40,7 +40,6 @@ style = "bg:#873274 fg:15"
 use_12hr = false
 time_format = "%H:%M"
 utc_time_offset = "local"
-time_range = "20:00:00-06:00:00"
 format = "[ $time ]($style)"
 
 [memory_usage]
